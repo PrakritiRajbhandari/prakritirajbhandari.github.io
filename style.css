@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+.bg_color{
+   background-color: burlywood;
+}
+
+p ,ul{
+    font-size: 20px;
+}
+
